@@ -8,4 +8,4 @@ Olá, sou Guilherme Ruy
 
 [![Linguagem Python](https://img.shields.io/badge/Linguagem-Python-blue)](https://www.python.org/)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Guilherme-ruy&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Guilherme-ruy&layout=compact)
