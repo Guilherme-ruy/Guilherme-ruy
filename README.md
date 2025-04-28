@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Web`**
 
-Olá! Sou da área de T.I. com ênfase em desenvolvimento web e criação de soluções digitais. Também tenho experiência em infraestrutura, suporte técnico e atualmente sou CEO e Desenvolvedor na minha própria empresa. Trabalhamos com sistemas, sites, landing pages, design gráfico e manutenção de hardware (computadores e notebooks). 😃
+Olá! Sou da área de T.I. com ênfase em desenvolvimento web e criação de soluções digitais. Também tenho experiência em infraestrutura, suporte técnico e atualmente sou CEO e Desenvolvedor na minha própria empresa. Trabalhamos com sistemas, sites, landing pages e design gráfico.
 
 ### 📲 Mais sobre mim
 
