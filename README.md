@@ -1,6 +1,7 @@
 # Guilherme Ruy
 
 **`Desenvolvedor Web`**
+**`Gestão de TI`** 
 
 Olá! Sou da área de T.I. com ênfase em desenvolvimento web e criação de soluções digitais. Também tenho experiência em infraestrutura, suporte técnico. Atualmente trabalho de forma PJ com sistemas, sites, landing pages e design gráfico.
 
@@ -20,14 +21,7 @@ Olá! Sou da área de T.I. com ênfase em desenvolvimento web e criação de sol
             title="Total de visualizações no YouTube" 
             src="https://custom-icon-badges.demolab.com/youtube/channel/views/UC8TH1OwfG1ImTyKRAt_kOYQ?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79000"
         />
-    </a>  
-    <a href="https://github.com/Guilherme-ruy?tab=followers">
-        <img 
-            alt="Seguidores no GitHub" 
-            title="Me siga no GitHub!" 
-            src="https://custom-icon-badges.demolab.com/github/followers/Guilherme-ruy?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Followers&logoColor=white"
-        />
-    </a>
+    </a> 
 </p>
 
 ## 💻 Tecnologias
@@ -36,11 +30,12 @@ Olá! Sou da área de T.I. com ênfase em desenvolvimento web e criação de sol
 
 <p align="left">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="45px" title="Python"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="45px" title="HTML5"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="45px" title="CSS3"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="45px" title="PHP"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="45px" title="JavaScript"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" width="45px" title="Vue.js"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuetify/vuetify-original.svg" width="45px" title="Vuetify"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="45px" title="HTML5"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="45px" title="CSS3"/>
 </p>
 
 ### 🔹 Bancos de Dados
@@ -50,16 +45,23 @@ Olá! Sou da área de T.I. com ênfase em desenvolvimento web e criação de sol
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" width="60px" title="MySQL"/>
 </p>
 
-### 🔹 Atualmente aprendendo
+### 🛠 Ferramentas & DevOps
 
 <p align="left">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" width="45px" title="MongoDB"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" width="45px" title="NestJS"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="45px" title="Git"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="45px" title="GitHub"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/trello/trello-plain.svg" width="45px" title="Trello"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/notion/notion-original.svg" width="45px" title="Notion"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="45px" title="Docker"/>
 </p>
+
 
 ## 🎬 Alguns vídeos do YouTube
 
 <p align="left">
+    <a href="https://www.youtube.com/watch?v=-quXUy7VTu4">
+        <img src="https://i.ytimg.com/an_webp/-quXUy7VTu4/mqdefault_6s.webp?du=3000&sqp=CPa2_8kG&rs=AOn4CLD0AThBI9U-QC5VW-TEmVL-asLkuw" width="250px">
+    </a>
     <a href="https://www.youtube.com/watch?v=WE22ILlLYlU">
         <img src="https://img.youtube.com/vi/WE22ILlLYlU/maxresdefault.jpg" width="250px">
     </a>
