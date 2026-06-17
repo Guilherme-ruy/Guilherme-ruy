@@ -2,9 +2,11 @@
 
 **`Desenvolvedor Full Stack`**
 
-4 anos de experiência em TI, com trajetória que vai do suporte técnico ao desenvolvimento de sistemas, o que me proporciona uma visão prática da relação entre software, infraestrutura e experiência do usuário final.
+4 anos de experiência em TI, com trajetória que vai do suporte técnico ao desenvolvimento de sistemas, uma visão prática da relação entre software, infraestrutura e experiência do usuário final.
 
-Foco atual em **Golang** e **NestJS** para construção de APIs de alta performance, e me aprofundando em **System Design**. Sou curioso e proativo, gosto de estar atualizado e aplicar boas práticas.
+Em meu histórico, destaco Project Lead, onde atuei em todo o ciclo de vida de alguns sistemas, desde o levantamento de requisitos, até o deploy final.
+
+Me aprofundando em System Design.
 
 ### 📫 Contato
 
